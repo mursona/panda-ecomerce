@@ -1,0 +1,18 @@
+.panda-bg-info{
+    background-color: #fceae8;
+}
+.bag-bg-info{
+    background-color: #da70d6;
+}
+.watch-bg-info{
+    background-color: #ffa500;
+}
+.shoes-bg-info{
+    background-color: #0000ff;
+}
+.price-text{
+    color: #ff136f;
+}
+.price-btn-danger{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+}
